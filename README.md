@@ -1,4 +1,4 @@
-### Olá! Me chamo Messias 
+### Olá, me chamo Messias 
 
 - 🔭 Atualmente trabalho na Pichau Informática.
 - 🌱 Estudando Engenharia de Software
