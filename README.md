@@ -1,6 +1,6 @@
 ### Olá, me chamo Messias 
 
-- 🔭 Atualmente trabalho como Desenvolvedor Front-end Junior na Pichau Informática.
+- 🔭 Atualmente trabalho como Desenvolvedor Front-end na Pichau Informática.
 - 🌱 Bacharelado em Engenharia de Software 4/8.
 
 ### 📊 Estatísticas
