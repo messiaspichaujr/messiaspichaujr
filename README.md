@@ -15,7 +15,7 @@
 <p align='left'> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" /> </p>
 
 ###	Estatísticas:
-<p> <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=messiaspichaujr&theme=dracula'> <img src='https://github-readme-stats.vercel.app/api?username=messiaspichaujr&show_icons=true&icon_color=bb2acf&text_color=daf7dc&theme=dracula'> </p>
+<p> <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=messiaspichaujr&theme=gruvbox'> <img src='https://github-readme-stats.vercel.app/api?username=messiaspichaujr&show_icons=true&icon_color=bb2acf&text_color=daf7dc&theme=gruvbox'> </p>
 
 
 
