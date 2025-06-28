@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente trabalho como Desenvolvedor Front-end na Pichau Informática.
 - 🌱 Bacharelado em Engenharia de Software 4/8.
-- 💻 Tenho conhecimento em HTML, CSS, JavaScript, React, Vue, UX/UI, Node.js, Express, n8n e MySQL
+- 💻 Tenho conhecimento em HTML, CSS, JavaScript, React, Vue, UX/UI, Node.js, Express e MySQL
 - 🚀 Estou sempre em busca de novas ideias e aprimorando minhas habilidades em desenvolvimento Full stack
 
 ### Onde me encontrar
