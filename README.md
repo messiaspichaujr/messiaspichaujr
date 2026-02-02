@@ -16,7 +16,11 @@
 </p>
 
 ###	Estatísticas:
-<p> <img src='https://github-readme-stats.vercel.app/api?username=messiaspichaujr&show_icons=true&icon_color=bb2acf&text_color=daf7dc&theme=gruvbox'> </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=messiaspichaujr&show_icons=true&icons_color=bb2acf&text_color=daf7dc&theme=gruvbox&hide_border=true" />
+</p>
+
 
 
 
